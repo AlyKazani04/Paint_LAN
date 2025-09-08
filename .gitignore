@@ -6,10 +6,13 @@
 *.docx
 *.txt
 
-# Output Screenshots
+# Images
 *.png
 *.jpg
 *.jpeg
+
+# vs code files
+.vscode/ 
 
 # Compiled Object files
 *.slo
@@ -42,8 +45,6 @@
 *.a
 *.lib
 
-# vs code files
-.vscode/ 
 
 # Executables
 *.exe
